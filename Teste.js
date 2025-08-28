@@ -4,5 +4,7 @@ class Teste{
         const num2 = 5
         let soma;
         soma = num1 + num2;
+
+        console.log(soma)
     }
 }
